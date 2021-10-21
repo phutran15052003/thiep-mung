@@ -1,4 +1,5 @@
 const nameGirl = 'Cô gái của anh';
+const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng sinh nhật cô gái của anh';
 const titleCard = 'Tặng người ấy';
 const contentCard = 'Chúc cô gái của anh sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với cô gái trong hôm nay và cả những ngày sau';
